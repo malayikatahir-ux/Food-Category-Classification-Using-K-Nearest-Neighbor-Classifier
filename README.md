@@ -225,6 +225,10 @@ and machine learning experimentation using food-related data
 
 ---
 
+A handwritten mathematical intuition of Euclidean Distance calculation is also included in the repository to demonstrate the foundational understanding behind how KNN measures similarity between neighboring data points.
+
+---
+
 # Learning Outcome
 
 This project was developed to strengthen understanding of:
