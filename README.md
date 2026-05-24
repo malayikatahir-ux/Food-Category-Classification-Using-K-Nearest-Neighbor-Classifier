@@ -193,14 +193,18 @@ Although the visualization results were not perfectly separated, they still help
 ---
 
 # Technologies Used
+
 <div align="center">
-Technology	Role in Project
-Python	Built the complete machine learning workflow
-Pandas	Loaded and handled food nutrition dataset
-NumPy	Supported numerical operations
-Matplotlib	Created plots and visualizations
-Seaborn	Generated heatmaps and pairplots
-Scikit-learn	Applied preprocessing, normalization, train-test split, and KNN classification
+
+| Technology | Role in Project |
+|---|---|
+| **Python** | Built the complete machine learning workflow and model implementation |
+| **Pandas** | Loaded, explored, and handled the food nutrition dataset |
+| **NumPy** | Supported numerical computations and array operations |
+| **Matplotlib** | Created plots, graphs, and visualization outputs |
+| **Seaborn** | Generated heatmaps, pairplots, and statistical visualizations |
+| **Scikit-learn** | Applied preprocessing, normalization, train-test splitting, and KNN classification |
+
 </div>
 
 ---
